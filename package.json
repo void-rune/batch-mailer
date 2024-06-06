@@ -1,5 +1,6 @@
 {
   "name": "batch-mailer",
+  "version": "1.0.0",
   "description": "Batch send emails to subscriber list",
   "main": "batchMailer.js",
   "repository": "git@github.com:void-rune/batch-mailer.git",
