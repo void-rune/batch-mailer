@@ -1,4 +1,11 @@
 {
+  "name": "batch-mailer",
+  "description": "Batch send emails to subscriber list",
+  "main": "batchMailer.js",
+  "repository": "git@github.com:void-rune/batch-mailer.git",
+  "author": "Void Rune <void.rune@protonmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/void-rune/batch-mailer#readme",
   "scripts": {
     "send": "node batchMailer.js"
   },
