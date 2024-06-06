@@ -1,0 +1,3 @@
+subscriber1@mydomain.com,D1FBE739-410A-4108-8632-1D7F2131CFB7
+subscriber2@mydomain.com,67135F1B-B2C2-4be5-A60F-846FEA2B2488
+subscriber3@mydomain.com,82FCFB7C-EE2D-4f62-BBB1-AB32ED51A263

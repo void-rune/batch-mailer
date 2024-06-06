@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "send": "node batchMailer.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.7"
+  }
+}
